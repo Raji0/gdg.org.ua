@@ -1,4 +1,4 @@
-# How to contribute
+# How to contribute.
 
 We love pull requests from everyone.
 
@@ -33,7 +33,7 @@ Some things that will increase the chance that your pull request is accepted:
 
 -----------------------------------------------
 
-## Getting Started
+## Getting Started.
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
 * Submit a ticket for your issue, assuming one does not already exist.
@@ -41,7 +41,7 @@ Some things that will increase the chance that your pull request is accepted:
   * Make sure you fill in the earliest version that you know has the issue.
 * Fork the repository on GitHub (or create a branch if you have write access)
 
-## Making Changes
+## Making Changes.
 
 * Create a topic branch from where you want to base your work.
   * This is usually the master branch.
@@ -72,7 +72,7 @@ Some things that will increase the chance that your pull request is accepted:
 * Make sure you have added the necessary tests for your changes.
 * Run _all_ the tests to assure nothing else was accidentally broken.
 
-# Additional Resources
+# Additional Resources.
 
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
